@@ -1,15 +1,15 @@
 /* Aula 01-04-03*/
 
 body, ul{
-    margin: 0px;
-    padding: 0px;
+    margin: 20px;
+    padding: 20px;
 }
 
 #menu{
-height: 20px;
+height: 100px;
 width: 100px;
 }
 
 #menu  #logo img {
-    height: 50px;
+    height: 70px;
 }
